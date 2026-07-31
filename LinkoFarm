@@ -1,1 +1,8 @@
-
+{
+    "version": "1.0.1",
+    "release_date": "2026-08-01",
+    "expiry_date": "2027-12-31",
+    "mandatory": true,
+    "download_url": "https://github.com/lilbang00/Linko-Farm-Updates/releases/download/LinkoFarm/Linko-Farm.exe",
+    "changelog": "🚀 نسخه ۱.۰.۱\n✅ رفع باگ‌ها و بهبود عملکرد"
+}
